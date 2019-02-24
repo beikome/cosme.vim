@@ -1,8 +1,17 @@
-# cosme.vim
+<div align="center">
+<img src="https://raw.githubusercontent.com/wiki/beikome/cosme.vim/cosme_logo.png" width="160" />
+</div>
 
 cosme is a color scheme for Vim which uses cosmetic colors like lipsticks, eyeshadows, and blushes.
 
 <img src="https://raw.githubusercontent.com/wiki/beikome/cosme.vim/image.png" width="480" />
+
+## Palette
+
+<img src="https://raw.githubusercontent.com/wiki/beikome/cosme.vim/cosme_palette.png" width="480" />
+
+## lightline.vim
+<img src="https://raw.githubusercontent.com/wiki/beikome/cosme.vim/cosme_lightline.png" width="100%" />
 
 ## License
 The MIT License (MIT)
