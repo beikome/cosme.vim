@@ -11,7 +11,7 @@ let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': 
 " Colors {{{
 let s:purple     = ['#dfd7ff', 189]
 let s:pink       = ['#ffafd7', 218]
-let s:pale_pink  = ['#ffa7ff', 225]
+let s:pale_pink  = ['#ffd7ff', 225]
 let s:green      = ['#afffd7', 158]
 let s:salmon     = ['#ffaf87', 216]
 let s:dark_gray  = ['#444444', 238]
