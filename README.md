@@ -10,8 +10,10 @@ cosme is a color scheme for Vim which uses cosmetic colors like lipsticks, eyesh
 
 <img src="https://raw.githubusercontent.com/wiki/beikome/cosme.vim/cosme_palette.png" width="480" />
 
-## lightline.vim
+## lightline.vim/vim-airline
 <img src="https://raw.githubusercontent.com/wiki/beikome/cosme.vim/cosme_lightline.png" width="100%" />
+
+<a href="https://github.com/tdct12">tdct12</a> made the airline theme. Thanks!
 
 ## License
 The MIT License (MIT)
